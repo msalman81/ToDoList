@@ -5,7 +5,7 @@ Body-parser npm package is used to access the form body values from the ejs temp
 
 The database is currently connected to localhost:27017 but it can be connected anywhere as wished. The css used to style is stored inside the public directory to serve up static assets.
 
-HOW TO RUN: You can either download the files, and then run "npm install" inside the installation directory to install all the npm packages used within the application and then run the command inside the directory as "node app.js" to run the app. You can also access the application at : https://vast-reef-18780.herokuapp.com/
+HOW TO RUN: You can either download the files, and then run "npm install" inside the installation directory to install all the npm packages used within the application and then open a new terminal window and run the MongoShell command "mongod" and then inside the first window run the command "node app.js" to run the app. You can also access the application at : https://vast-reef-18780.herokuapp.com/
 
 Here's a preview:
 ![Capture](https://user-images.githubusercontent.com/46281169/61468062-1e4c0d80-a996-11e9-8dec-a1cffbd4b59e.PNG)
